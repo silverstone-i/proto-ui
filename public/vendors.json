@@ -1,0 +1,64 @@
+[
+  {
+    "vendor-id": "001",
+    "address": "1234 Market St, San Francisco, CA 94103",
+    "total-open-invoices": 5,
+    "invoices": [
+      {
+        "Invoice-number": "INV-001",
+        "description of work": "Web development services",
+        "amount": 12000,
+        "status": "paid"
+      },
+      {
+        "Invoice-number": "INV-002",
+        "description of work": "Graphic design services",
+        "amount": 3500,
+        "status": "unpaid"
+      },
+      {
+        "Invoice-number": "INV-003",
+        "description of work": "SEO services",
+        "amount": 2000,
+        "status": "paid"
+      },
+      {
+        "Invoice-number": "INV-004",
+        "description of work": "Maintenance services",
+        "amount": 1500,
+        "status": "unpaid"
+      },
+      {
+        "Invoice-number": "INV-005",
+        "description of work": "Consulting services",
+        "amount": 3000,
+        "status": "paid"
+      }
+    ]
+  },
+  {
+    "vendor-id": "002",
+    "address": "5678 Broadway Blvd, New York, NY 10025",
+    "total-open-invoices": 3,
+    "invoices": [
+      {
+        "Invoice-number": "INV-006",
+        "description of work": "Cloud hosting services",
+        "amount": 4200,
+        "status": "unpaid"
+      },
+      {
+        "Invoice-number": "INV-007",
+        "description of work": "Data analytics services",
+        "amount": 6500,
+        "status": "paid"
+      },
+      {
+        "Invoice-number": "INV-008",
+        "description of work": "Cybersecurity services",
+        "amount": 7300,
+        "status": "unpaid"
+      }
+    ]
+  }
+]

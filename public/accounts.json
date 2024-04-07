@@ -1,0 +1,17 @@
+[
+  {
+    "account-id": "001",
+    "account-name": "Operating Expenses",
+    "account-type": "Expense"
+  },
+  {
+    "account-id": "002",
+    "account-name": "Sales Revenue",
+    "account-type": "Revenue"
+  },
+  {
+    "account-id": "003",
+    "account-name": "Inventory",
+    "account-type": "Asset"
+  }
+]

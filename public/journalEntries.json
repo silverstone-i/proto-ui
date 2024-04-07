@@ -1,0 +1,26 @@
+[
+  {
+    "Date": "2023-01-01",
+    "Account": "Sales Revenue",
+    "Debit": 0,
+    "Credit": 20000
+  },
+  {
+    "Date": "2023-01-02",
+    "Account": "Operating Expenses",
+    "Debit": 5000,
+    "Credit": 0
+  },
+  {
+    "Date": "2023-01-03",
+    "Account": "Inventory",
+    "Debit": 10000,
+    "Credit": 0
+  },
+  {
+    "Date": "2023-01-04",
+    "Account": "Sales Revenue",
+    "Debit": 0,
+    "Credit": 15000
+  }
+]
